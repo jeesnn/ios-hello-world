@@ -6,9 +6,9 @@ My first repository on GitHub
 `TODO://` Hello World
 
 ### App Walk-though
-`TODO://`http://recordit.co/2uKRvknz99
+`TODO://`http://g.recordit.co/5kUwk9HpiQ.gif
 
-<img src="http://recordit.co/2uKRvknz99" width=200><br>
+<img src="http://g.recordit.co/5kUwk9HpiQ.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
